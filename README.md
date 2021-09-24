@@ -1,5 +1,5 @@
 # Search Wikipedia
-An extremely minimalistic JavaScript snippet that displays a list of
+An extremely minimalist JavaScript snippet that displays a list of
 10 Wikipedia search results in the given user language.
 
 ## Highlights
