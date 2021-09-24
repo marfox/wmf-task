@@ -8,6 +8,6 @@ An extremely minimalist JavaScript snippet that displays a list of
 - comply with MediaWiki [coding conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript).
 
 ## Caveats
-- No internationalization of the last item "Search for pages containing [x]...";
+- No internationalization of the last item (_Search for pages containing [x]..._);
 - compatibility with right-to-left languages is not guaranteed.
 
