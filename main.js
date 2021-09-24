@@ -20,7 +20,7 @@ function appendResult( result, list ) {
 	if ( thumbnailValue !== null ) {
 		const thumbnail = document.createElement( 'img' );
 		// The API doesn't return the URL protocol.
-		thumbnail.src = `https:${ result.thumbnail.url }`;
+		thumbnail.src = `https:${ thumbnailValue.url }`;
 		listItem.appendChild( thumbnail );
 	}
 
